@@ -6,8 +6,9 @@ How to build
 ============
 The following commands produce the executable `bin/main.exe`:
 ```
- $ opam install --deps-only .
- $ dune build --release
+$ dune build eq_arg_red.opam
+$ opam install --deps-only .
+$ dune build --release
 ```
 
 How to use

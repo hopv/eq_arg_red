@@ -4,3 +4,4 @@ _build/
 *.opam
 *.install
 *.smt2
+bin/main.exe
