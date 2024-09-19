@@ -10,6 +10,12 @@ The following commands produce the executable `bin/main.exe`:
  $ dune build --release
 ```
 
+How to use
+==========
+
+See `bin/main.exe --help`.
+
+
 Licenses
 ========
 
