@@ -1,0 +1,6 @@
+(executable
+ (public_name eq_arg_red)
+ (name main)
+ (libraries unix batteries ppx_deriving.show smtlib-utils z3 zarith ppx_deriving_cmdliner sexplib)
+ (preprocess (pps ppx_deriving.show ppx_deriving_cmdliner))
+ (promote))

@@ -1,0 +1,6 @@
+_build/
+*~
+\#*
+*.opam
+*.install
+*.smt2
