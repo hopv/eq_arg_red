@@ -1,5 +1,5 @@
 `eq_arg_red` reduces the arguments of the predicates in an input CHC file.
-See [Ikeda, Sato & Kobayashi, APLAS 2013] for the details.
+See [Ikeda, Sato & Kobayashi, APLAS 2023] for the details.
 
 
 How to build
